@@ -7,7 +7,7 @@ An independent software developer and freelancer passionate about building smart
 ##  About Me & Achievements
 -  **Freelance Developer:** Expert in turning complex ideas into scalable Minimum Viable Products (MVPs) and production-ready applications.
 -  **Technical Interests:** Deeply interested in cybersecurity (vulnerability detection & network security), cutting-edge AI integrations, and high-performance systems.
--  **Content Creation:** Creating educational programming and AI-focused content on Instagram (@obin.gic / @obin.dev) to support and inspire the developer community.
+-  **Content Creation:** Creating educational programming and AI-focused content on Instagram (@Dejobe.tc / @Dejobe.tc) to support and inspire the developer community.
 
 ---
 
